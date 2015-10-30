@@ -9,3 +9,6 @@ C:\Users\PatrykDev\Documents\vs_project\CV\CiagFibonacciego\CiagFibonacciego\obj
 C:\Users\PatrykDev\Documents\vs_project\CV\CiagFibonacciego\CiagFibonacciego\bin\Debug\CiagFibonacciego.exe
 C:\Users\PatrykDev\Documents\vs_project\CV\CiagFibonacciego\CiagFibonacciego\bin\Debug\CiagFibonacciego.pdb
 C:\Users\PatrykDev\Documents\vs_project\CV\CiagFibonacciego\CiagFibonacciego\obj\Debug\CiagFibonacciego.csprojResolveAssemblyReference.cache
+C:\Users\PatrykDev\Documents\vs_project\CV_projekty\CiagFibonacciego\CiagFibonacciego\bin\Debug\CiagFibonacciego.exe.config
+C:\Users\PatrykDev\Documents\vs_project\CV_projekty\CiagFibonacciego\CiagFibonacciego\obj\Debug\CiagFibonacciego.exe
+C:\Users\PatrykDev\Documents\vs_project\CV_projekty\CiagFibonacciego\CiagFibonacciego\obj\Debug\CiagFibonacciego.pdb

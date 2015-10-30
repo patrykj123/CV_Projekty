@@ -12,7 +12,7 @@ namespace CiagFibonacciego
 
             for (; ; )
             {
-                Thread.Sleep(1000);
+                Thread.Sleep(timePeriod);
                 Console.WriteLine(b);
                 b += a;
                 a = b - a;
